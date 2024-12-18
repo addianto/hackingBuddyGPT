@@ -33,4 +33,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: docker.io/${{ vars.DOCKERHUB_USERNAME }}/hackingBuddyGPT:latest
+          tags: docker.io/${{ vars.DOCKERHUB_USERNAME }}/hacking-buddy-gpt:latest
