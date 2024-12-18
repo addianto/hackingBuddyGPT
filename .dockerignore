@@ -1,0 +1,7 @@
+.devcontainer/
+.github/
+docs/
+venv/
+.env
+.env.example
+Dockerfile 
